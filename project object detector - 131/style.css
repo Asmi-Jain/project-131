@@ -1,0 +1,18 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.link
+{
+    border-radius: 6px;
+    background: wheat;
+    width: 200px;
+    font-size: medium;
+}
+
+.link:hover
+{
+    font-size: large;
+}
